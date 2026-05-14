@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Respiratory assessment via whole-body plethysmography revealed elevated baseline respiratory rate and a blunted response to gas challenge with high CO2 in PFF-injected mice, consistent with LC circuit dysfunction. We employed a machine learning classifier, which predicted LC pathology based on breathing alone with high accuracy, providing further evidence for the significance of the noted respiratory phenotype. Finally, whole-cell patch clamp electrophysiology demonstrated neuronal dysfunction that may directly contribute to the observed behavioral and physiological phenotypes.  These findings demonstrate that early α-synuclein pathology in the LC produces cellular dysfunction and a constellation of non-motor symptoms—including respiratory abnormalities, sleep-wake disruption, and arousal dysregulation—that recapitulate those seen in prodromal PD, establishing the LC as a mechanistic substrate for early disease manifestation.
 
 <p align="center">
-  <img src="YOUR_IMAGE_NAME.png" alt="Research Results" width="800">
+  <img src="image_1.png" alt="Research Results" width="800">
 </p>
 
 </div>
