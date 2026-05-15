@@ -1,6 +1,6 @@
 <div style="text-align: justify;">
 
-<h2 align="center"><b>Time to focus on the locus (coeruleus): functional decline in a mouse model of early Parkinson’s disease</b></h2>
+<h2 align="left"><b>Time to focus on the locus (coeruleus): functional decline in a mouse model of early Parkinson’s disease</b></h2>
 
 Parkinson’s disease (PD) is characterized by α-synuclein aggregation and progressive neuronal loss throughout the brain. Prodromal symptoms suggest early brainstem pathology, particularly within the locus coeruleus (LC), one of the first afflicted brain regions in PD. As the main source of noradrenaline (NA) for the central nervous system, the LC is a critical modulator of arousal, anxiety, sleep, and breathing. Despite this, the functional consequences of PD pathology in the LC and how this disruption drives disease presentation remain poorly understood.
 
